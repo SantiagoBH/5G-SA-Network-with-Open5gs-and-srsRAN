@@ -25,4 +25,4 @@ dependent variables. The research design will focus on evaluating and measuring 
 The theoretical implications of this study lie in the validation and evaluation of implementing a 5G network using open-source technologies in a virtualized
 environment. This will provide additional information and insights into the performance and feasibility of this solution compared to traditional approaches to 5G 
 network implementation. In practical terms, the results of this study may have significant implications in the mobile communications industry by offering a more 
-flexible, scalable, and cost-effective alternative for deploying 5G networks."
+flexible, scalable, and cost-effective alternative for deploying 5G networks.
